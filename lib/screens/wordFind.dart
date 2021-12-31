@@ -30,7 +30,7 @@ class _WordFindState extends State<WordFind> {
       ),
       WordFindQues(
         question: "What is the name of the flower?",
-        answer: "lily",
+        answer: "Lily",
         pathImage:
             "https://helonational.com/wp-content/uploads/2016/03/National-flower-of-srilanka-Blue-water-lily.jpg",
       ),
